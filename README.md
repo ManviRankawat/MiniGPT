@@ -1,1 +1,4 @@
-# MiniGPT- BhagvadGeeta
+# MiniGPT- BhagvadGita
+
+# Licence
+MIT
